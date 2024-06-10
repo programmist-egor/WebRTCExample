@@ -12,6 +12,9 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app needs access to your camera to stream video."
+      },
       "supportsTablet": true
     },
     "android": {
